@@ -1,0 +1,56 @@
+﻿<Properties StartupConfiguration="{6933FE2F-29AA-456D-AF6E-3E848E5AAE2F}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.InventoryMSystem PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="User_list.Designer.cs">
+    <Files>
+      <File FileName="Admin_home.Designer.cs" />
+      <File FileName="Admin_home.resx" />
+      <File FileName="App.config" />
+      <File FileName="Confirm.cs" />
+      <File FileName="Confirm.resx" />
+      <File FileName="Home.cs" />
+      <File FileName="Home.Designer.cs" />
+      <File FileName="Home.resx" />
+      <File FileName="Login.cs" />
+      <File FileName="Login.resx" />
+      <File FileName="Manager_home.cs" />
+      <File FileName="Manager_home.Designer.cs" />
+      <File FileName="Manager_home.resx" />
+      <File FileName="ManagerDetails.cs" />
+      <File FileName="MyOrders.cs" />
+      <File FileName="Admin_home.cs" />
+      <File FileName="MyOrders.resx" />
+      <File FileName="Program.cs" />
+      <File FileName="SignUp.cs" />
+      <File FileName="SignUp.resx" />
+      <File FileName="User_list.cs" />
+      <File FileName="User_list.Designer.cs" Line="1" Column="1" />
+      <File FileName="User_list.resx" />
+      <File FileName="UserControl1.cs" />
+      <File FileName="UserControl1.Designer.cs" />
+      <File FileName="userdetail.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="InventoryMSystem">
+            <Node name="InventoryMSystem">
+              <Node name="Admin_home.cs" expanded="True" />
+              <Node name="User_list.cs" expanded="True">
+                <Node name="User_list.Designer.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 **Database Name: inventorymgcsharp**
@@ -6,11 +7,16 @@
 
 
 **Admin Login Details**
+=======
+Database Name: inventorymgcsharp
+
+Admin Login Details
+>>>>>>> 85285a2282d3fbc9070fb6c2014524b04c0e488f
 
 Username: admin
 Password: password123
 
-**Manager Login Details**
+Manager Login Details
 
 Username: manager
 Password: manager123
