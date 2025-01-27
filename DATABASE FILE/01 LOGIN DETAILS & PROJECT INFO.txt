@@ -1,16 +1,11 @@
-**Log on to codeastro.com for more projects!***
+Database Name: inventorymgcsharp
 
-**Database Name: inventorymgcsharp**
-
-**Developed by Sudesh Fernandez**
-
-
-**Admin Login Details**
+Admin Login Details
 
 Username: admin
 Password: password123
 
-**Manager Login Details**
+Manager Login Details
 
 Username: manager
 Password: manager123
