@@ -6,14 +6,14 @@
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.ItemProperties.InventoryMSystem PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="User_list.Designer.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SignUp.cs">
     <Files>
       <File FileName="Admin_home.Designer.cs" />
       <File FileName="Admin_home.resx" />
       <File FileName="App.config" />
       <File FileName="Confirm.cs" />
       <File FileName="Confirm.resx" />
-      <File FileName="Home.cs" />
+      <File FileName="Home.cs" Line="1" Column="1" />
       <File FileName="Home.Designer.cs" />
       <File FileName="Home.resx" />
       <File FileName="Login.cs" />
@@ -23,13 +23,13 @@
       <File FileName="Manager_home.resx" />
       <File FileName="ManagerDetails.cs" />
       <File FileName="MyOrders.cs" />
-      <File FileName="Admin_home.cs" />
+      <File FileName="Admin_home.cs" Line="107" Column="21" />
       <File FileName="MyOrders.resx" />
       <File FileName="Program.cs" />
-      <File FileName="SignUp.cs" />
+      <File FileName="SignUp.cs" Line="35" Column="20" />
       <File FileName="SignUp.resx" />
       <File FileName="User_list.cs" />
-      <File FileName="User_list.Designer.cs" Line="1" Column="1" />
+      <File FileName="User_list.Designer.cs" Line="154" Column="1" />
       <File FileName="User_list.resx" />
       <File FileName="UserControl1.cs" />
       <File FileName="UserControl1.Designer.cs" />
@@ -40,10 +40,8 @@
         <State name="__root__">
           <Node name="InventoryMSystem">
             <Node name="InventoryMSystem">
-              <Node name="Admin_home.cs" expanded="True" />
-              <Node name="User_list.cs" expanded="True">
-                <Node name="User_list.Designer.cs" selected="True" />
-              </Node>
+              <Node name="SignUp.cs" selected="True" />
+              <Node name="User_list.cs" expanded="True" />
             </Node>
           </Node>
         </State>

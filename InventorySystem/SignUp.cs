@@ -32,27 +32,7 @@ namespace InventorySystemCsharp
             {
                 if (bunifuMetroTextbox5.Text == bunifuMetroTextbox6.Text)
                 {
-                    try
-                    {
-                        MySqlConnection conn = new MySqlConnection(@"datasource=127.0.0.1;port=3306;SslMode=none;username=root;password=;database=inventorymgcsharp;");
-                        string query = "insert into `users`(`first`,`last`,`username`,`phone`,`password`) values('" + bunifuMetroTextbox1.Text.Trim() + "','" + bunifuMetroTextbox2.Text.Trim() + "','" + bunifuMetroTextbox3.Text.Trim() + "','" + bunifuMetroTextbox4.Text.Trim() + "','" + MD5Hash(bunifuMetroTextbox5.Text.Trim()) + "')";
-                        MySqlCommand cmd = new MySqlCommand(query, conn);
-                        conn.Open();
-                        cmd.ExecuteNonQuery();
-                        conn.Close();
-                        MessageBox.Show("Success");
-                        Login login = new Login();
-                        login.Show();
-                        this.Hide();
-                    }
-                    catch (MySqlException ex)
-                    {
-                        MessageBox.Show("Username Taken");
-                    }
-                    catch (Exception ex)
-                    {
-                        MessageBox.Show(ex.ToString());
-                    }
+                   
                 }
                 else
                 {

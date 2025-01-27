@@ -103,26 +103,8 @@ namespace InventorySystemCsharp
             {
                 if (MpassTxt.Text == MrepassTxt.Text)
                 {
-                    try
-                    {
-                        //String status = "manager";
-                        MySqlConnection conn = new MySqlConnection(@"datasource=127.0.0.1;port=3306;SslMode=none;username=root;password=;database=inventorymgcsharp;");
-                        string query = "insert into `users`(`first`,`last`,`username`,`phone`,`password`,`usertype`) values('" + MfnameTxt.Text.Trim() + "','" + MlnameTxt.Text.Trim() + "','" + MusernameTxt.Text.Trim() + "','" + MphonenumTxt.Text.Trim() + "','" + MD5Hash(MpassTxt.Text.Trim()) + "','" + typecomboTxt.Text.Trim() + "')";
-                        MySqlCommand cmd = new MySqlCommand(query, conn);
-                        conn.Open();
-                        cmd.ExecuteNonQuery();
-                        conn.Close();
-                        MessageBox.Show("New Manager account has been created successfully!");
-                        
-                    }
-                    catch (MySqlException ex)
-                    {
-                        MessageBox.Show("This Username is already taken!");
-                    }
-                    catch (Exception ex)
-                    {
-                        MessageBox.Show(ex.ToString());
-                    }
+                   
+                    
                 }
                 else
                 {
