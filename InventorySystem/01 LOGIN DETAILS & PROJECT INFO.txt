@@ -1,8 +1,8 @@
-**Log on to codeastro.com for more projects!***
+
 
 **Database Name: inventorymgcsharp**
 
-**Developed by Sudesh Fernandez**
+
 
 
 **Admin Login Details**
